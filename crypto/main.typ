@@ -61,3 +61,6 @@ What's not going to be covered:
 
 #include "1_entrophy.typ"
 #include "2_hash.typ"
+#include "3_encrypt.typ"
+#include "4_public.typ"
+#include "5_examples.typ"
