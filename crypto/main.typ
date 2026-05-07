@@ -64,3 +64,26 @@ What's not going to be covered:
 #include "3_encrypt.typ"
 #include "4_public.typ"
 #include "5_examples.typ"
+
+
+== 总结：开发者应有的密码学常识 <touying:hidden>
+
+
+- 核心原则：不要自己发明算法 (Don't roll your own crypto)   
+  - 安全性不应依赖于算法的秘密性 。  
+  - 永远优先使用经过工业界验证的标准库和算法（如 AES-GCM, Argon2id, Ed25519) 。  
+- 木桶效应：系统安全取决于最弱的一环   
+  - 锁与钥匙：即便算法（锁）是 128-bit 安全的，如果密钥（钥匙）的熵不足（如使用时间戳），系统依然会崩溃 。  
+- 承认人性的弱点：
+  - 强制加盐(Salt)、使用慢哈希(Argon2id)以及推广 2FA 是开发者的基本修养 。  
+
+---
+
+- 技术赋权：
+  - 现代密码学给了普通人在克苏鲁面前保持隐私的可能
+  - 级联 SM4 与 AES ?
+- 「共识」可能不需要建立在「信任」或「权威」之上
+  - 公平洗牌
+  - Crypocurrency
+- Code is law, Math is Truth
+- Don't trust, verify
