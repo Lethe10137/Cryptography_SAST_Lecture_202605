@@ -127,4 +127,4 @@ $
   - 24长度的 BIP39 助记词
   - `@@}e/h)Y&$~t*7oMk>-7CI4/0jA>UG1,AV|iT'M~Xpq^U`
 
-你的 info 密码足够强吗？
+你的 info 口令足够强吗？
