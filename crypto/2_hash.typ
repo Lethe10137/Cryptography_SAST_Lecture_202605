@@ -28,10 +28,9 @@ e.g. `0x59294e0b`
 
 ---
 
-https://thuhollow.github.io/##567996 【一名党员的理想】 节选
+在树洞上，你经常可以看到：
 
 ```
-【洞主】
 Re Louis: jc4MyQl0K/m9zF8j6WrYbbNVpvQmWtltWx6wcRbu
 qYcpC0nPOUiwKo9IeOtFBV80E4qk3ugpPOFHg9eVn/5uFQs2wY
 pa7MfVg78+Nll5zocJ16IdEzohT1ZcHxTjbRMykhtPhotpHv5e
